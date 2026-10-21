@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../StudentPerformanceAnalyzer.Tests/StudentPerformanceAnalyzer.Tests.csproj" />
+  <Project Path="StudentPerformanceAnalyzer.csproj" />
+</Solution>
