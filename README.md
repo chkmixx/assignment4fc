@@ -1,5 +1,5 @@
 # StudentPerformanceAnalyzer
-# StudentPerformanceAnalyzer
+
 Student:Tomiris Chekalin
 Group:IT-2503
 
@@ -52,6 +52,8 @@ Anna: 95 points
 Maria: 100 points
 John: 70 points
 Tom: 60 points
+<img width="1221" height="470" alt="image" src="https://github.com/user-attachments/assets/f09f40fc-95ab-4d01-b44c-71c87923845c" />
+
 
 
 
@@ -62,6 +64,7 @@ For an empty list, the program displays "No students found."
 Tests
 The test project is StudentPerformanceAnalyzer.Tests. It contains six automated tests:
 
+
 Normal workflow.
 
 Empty dataset.
@@ -71,3 +74,7 @@ Boundary value of 50.
 Invalid input.
 
 Comparison of the two policies.
+<img width="1525" height="528" alt="image" src="https://github.com/user-attachments/assets/baa25ba8-8a25-4e6a-93ff-5c5e1cd931d6" />
+
+In conclusion, I created a Student Performance Analyzer using C#. The program processes student scores with LINQ and pipelines. I also added different policies and checked how the program handles empty datasets and invalid data. I created unit tests to check the main functions. All 6 tests passed successfully. This project helped me understand functional programming and unit testing better.
+
